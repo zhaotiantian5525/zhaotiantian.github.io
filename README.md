@@ -1,1 +1,1 @@
-# zhaotiantian.github.io
+<a href="/privacy">Privacy Policy</a>
